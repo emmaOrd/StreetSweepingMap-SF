@@ -1,1 +1,3 @@
 # StreetSweepingMap-SF
+
+This notebook requires using ArcGIS. The city of San Francisco's street cleaning data is accessed and used to prepare a feature layer for the Hayes Valley (HV) parking permit streets. The goal is to produce a layer that can be displayed on a web map (ArcGIS Online) and symbology can be used to show where one can park with a HV parking permit for the longest amount of time before the next street cleaning. This notebook prepares a feature class to be published to AGOL that includes up to 4 different street sweeping times per road segment. This code could be used to prepare a similar dataset for any other parking permit zone of San Francisco.
